@@ -7,9 +7,7 @@
     "start": "parcel index.html --open",
     "build": "parcel build index.html"
   },
-  "dependencies": {
-    "node.js": "0.0.1-security"
-  },
+  "dependencies": {},
   "devDependencies": {
     "parcel-bundler": "^1.6.1"
   },
